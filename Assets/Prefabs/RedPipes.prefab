@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 1486784592083526106}
   - component: {fileID: 1486784592083526107}
   m_Layer: 0
-  m_Name: DownPipeGreen
+  m_Name: DownPipeRed
   m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -75,7 +75,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 5f64fdc34f52fa042a644c99fe217030, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 85561e945df1aa34eab5902162049b7a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -144,7 +144,7 @@ GameObject:
   - component: {fileID: 1486784592488035071}
   - component: {fileID: 1486784592488035070}
   m_Layer: 0
-  m_Name: GreenPipes
+  m_Name: RedPipes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -193,7 +193,7 @@ GameObject:
   - component: {fileID: 1486784593193773328}
   - component: {fileID: 1486784593193773329}
   m_Layer: 0
-  m_Name: UpPipeGreen
+  m_Name: UpPipeRed
   m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -255,7 +255,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 5f64fdc34f52fa042a644c99fe217030, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 85561e945df1aa34eab5902162049b7a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
